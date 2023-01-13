@@ -106,7 +106,7 @@ I want to focus more on responsive design and how to use all other psuedo elemen
 
 ### Useful resources
 
-- [Resource 1](https://blog.hubspot.com/website/html-space) - This helped me on how to add spaces between letters in html  i.e using <pre> tag.
+- [Resource 1](https://blog.hubspot.com/website/html-space) - This helped me on how to add spaces between letters in html  i.e using 'pre' html tag
 
 - [Resource 2] (https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries) -- This helped me learning @media Queries in CSS
 
@@ -117,4 +117,3 @@ I want to focus more on responsive design and how to use all other psuedo elemen
 
 
 ## Acknowledgments
-
